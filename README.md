@@ -1,4 +1,4 @@
-# <a href="https://lively-grass-02b39ca10.1.azurestaticapps.net/">E-Commerce Website with FAQ Bot</a>
+# <a href="https://delightful-sky-0e6548210.1.azurestaticapps.net/">E-Commerce Website with FAQ Bot</a>
 
 E-commerce Front End website design
 
@@ -31,4 +31,4 @@ Azure Bot Service, QnA Maker, Static Web Apps
 Other Azure Technologies :
 App Service
 
-<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/sasikiran20/frtproject/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
+<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/YaswanthArikatla/frtproject/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
